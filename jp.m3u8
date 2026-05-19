@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="jp1" tvg-logo="https://webtv.jpantv.live/channel/001.png" group-title="JNET",NHK総合・東京
+https://live.livingtv.live/jp1/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp2" tvg-logo="https://webtv.jpantv.live/channel/001.png" group-title="JNET",NHK総合・東京
+https://live.livingtv.live/jp2/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp3" tvg-logo="https://webtv.jpantv.live/channel/002.png" group-title="JNET",NHK Eテレ・東京
+https://live.livingtv.live/jp3/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp4" tvg-logo="https://webtv.jpantv.live/channel/003.png" group-title="JNET",日テレ
+https://live.livingtv.live/jp4/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp5" tvg-logo="https://webtv.jpantv.live/channel/004.png" group-title="JNET",TBS
+https://live.livingtv.live/jp5/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp6" tvg-logo="https://webtv.jpantv.live/channel/005.png" group-title="JNET",フジテレビ
+https://live.livingtv.live/jp6/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp7" tvg-logo="https://webtv.jpantv.live/channel/006.png" group-title="JNET",テレビ朝日
+https://live.livingtv.live/jp7/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp8" tvg-logo="https://webtv.jpantv.live/channel/007.png" group-title="JNET",テレビ東京
+https://live.livingtv.live/jp8/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp9" tvg-logo="https://webtv.jpantv.live/channel/008.png" group-title="JNET",ＴＯＫＹＯ ＭＸ
+https://live.livingtv.live/jp9/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp10" tvg-logo="https://webtv.jpantv.live/channel/008.png" group-title="JNET",ＴＯＫＹＯ ＭＸ2
+https://live.livingtv.live/jp10/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp11" tvg-logo="https://webtv.jpantv.live/channel/009.png" group-title="JNET",MBS毎日放送
+https://live.livingtv.live/jp11/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp12" tvg-logo="https://webtv.jpantv.live/channel/010.png" group-title="JNET",ABCテレビ
+https://live.livingtv.live/jp12/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp13" tvg-logo="https://webtv.jpantv.live/channel/011.png" group-title="JNET",関西テレビ
+https://live.livingtv.live/jp13/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp14" tvg-logo="https://webtv.jpantv.live/channel/012.png" group-title="JNET",よみうりテレビ
+https://live.livingtv.live/jp14/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp15" tvg-logo="https://webtv.jpantv.live/channel/013.png" group-title="JNET",テレビ大阪
+https://live.livingtv.live/jp15/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp16" tvg-logo="https://webtv.jpantv.live/channel/014.png" group-title="JNET",KBS京都
+https://live.livingtv.live/jp16/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp17" tvg-logo="https://webtv.jpantv.live/channel/015.png" group-title="JNET",NHK BSP4K
+https://live.livingtv.live/jp17/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp18" tvg-logo="https://webtv.jpantv.live/channel/016.png" group-title="JNET",BSテレ東 4K
+https://live.livingtv.live/jp18/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp19" tvg-logo="https://webtv.jpantv.live/channel/017.png" group-title="JNET",NHK BS
+https://live.livingtv.live/jp19/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp20" tvg-logo="https://webtv.jpantv.live/channel/017.png" group-title="JNET",NHK BS
+https://live.livingtv.live/jp20/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp21" tvg-logo="https://webtv.jpantv.live/channel/018.png" group-title="JNET",BS日テレ
+https://live.livingtv.live/jp21/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp22" tvg-logo="https://webtv.jpantv.live/channel/019.png" group-title="JNET",BS朝日
+https://live.livingtv.live/jp22/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp23" tvg-logo="https://webtv.jpantv.live/channel/020.png" group-title="JNET",BS朝日 4K
+https://live.livingtv.live/jp23/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp24" tvg-logo="https://webtv.jpantv.live/channel/021.png" group-title="JNET",BS-TBS
+https://live.livingtv.live/jp24/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp25" tvg-logo="https://webtv.jpantv.live/channel/022.png" group-title="JNET",BS-TBS 4K
+https://live.livingtv.live/jp25/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp26" tvg-logo="https://webtv.jpantv.live/channel/023.png" group-title="JNET",BSジャパン
+https://live.livingtv.live/jp26/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp27" tvg-logo="https://webtv.jpantv.live/channel/024.png" group-title="JNET",BSフジ
+https://live.livingtv.live/jp27/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp28" tvg-logo="https://webtv.jpantv.live/channel/025.png" group-title="JNET",BS11
+https://live.livingtv.live/jp28/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp29" tvg-logo="https://webtv.jpantv.live/channel/026.png" group-title="JNET",BS12 トゥエルビ
+https://live.livingtv.live/jp29/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp30" tvg-logo="https://webtv.jpantv.live/channel/027.png" group-title="JNET",WOWOWプライム
+https://live.livingtv.live/jp30/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp31" tvg-logo="https://webtv.jpantv.live/channel/028.png" group-title="JNET",WOWOWライブ
+https://live.livingtv.live/jp31/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp32" tvg-logo="https://webtv.jpantv.live/channel/029.png" group-title="JNET",WOWOWシネマ
+https://live.livingtv.live/jp32/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp33" tvg-logo="https://webtv.jpantv.live/channel/030.png" group-title="JNET",WOWOWプラス
+https://live.livingtv.live/jp33/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp34" tvg-logo="https://webtv.jpantv.live/channel/031.png" group-title="JNET",BS10
+https://live.livingtv.live/jp34/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp35" tvg-logo="https://webtv.jpantv.live/channel/032.png" group-title="JNET",BS10 プレミアム
+https://live.livingtv.live/jp35/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp36" tvg-logo="https://webtv.jpantv.live/channel/033.png" group-title="JNET",BS日本映画専門チャンネル
+https://live.livingtv.live/jp36/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp37" tvg-logo="https://webtv.jpantv.live/channel/034.png" group-title="JNET",J:COM BS
+https://live.livingtv.live/jp37/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp38" tvg-logo="https://webtv.jpantv.live/channel/035.png" group-title="JNET",BSよしもと
+https://live.livingtv.live/jp38/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp39" tvg-logo="https://webtv.jpantv.live/channel/036.png" group-title="JNET",グリーンチャンネル
+https://live.livingtv.live/jp39/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp40" tvg-logo="https://webtv.jpantv.live/channel/037.png" group-title="JNET",J SPORTS 1
+https://live.livingtv.live/jp40/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp41" tvg-logo="https://webtv.jpantv.live/channel/041.png" group-title="JNET",J SPORTS 2
+https://live.livingtv.live/jp41/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp42" tvg-logo="https://webtv.jpantv.live/channel/042.png" group-title="JNET",J SPORTS 3
+https://live.livingjtv.live/jp42/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp43" tvg-logo="https://webtv.jpantv.live/channel/043.png" group-title="JNET",J SPORTS 4
+https://live.livingjtv.live/jp43/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp44" tvg-logo="https://webtv.jpantv.live/channel/044.png" group-title="JNET",BS釣りビジョン
+https://live.livingjtv.live/jp44/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp45" tvg-logo="https://webtv.jpantv.live/channel/045.png" group-title="JNET",BSアニマックス
+https://live.livingjtv.live/jp45/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp46" tvg-logo="https://webtv.jpantv.live/channel/046.png" group-title="JNET",ディズニー・チャンネル
+https://live.livingjtv.live/jp46/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp47" tvg-logo="https://webtv.jpantv.live/channel/047.png" group-title="JNET",東映チャンネル
+https://live.livingjtv.live/jp47/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp48" tvg-logo="https://webtv.jpantv.live/channel/048.png" group-title="JNET",衛星劇場
+https://live.livingjtv.live/jp48/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp49" tvg-logo="https://webtv.jpantv.live/channel/049.png" group-title="JNET",映画・チャンネルNECO
+https://live.livingjtv.live/jp49/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp50" tvg-logo="https://webtv.jpantv.live/channel/050.png" group-title="JNET",ザ・シネマ
+https://live.livingjtv.live/jp50/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp51" tvg-logo="https://webtv.jpantv.live/channel/051.png" group-title="JNET",ムービープラス
+https://live.livingjtv.live/jp51/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp52" tvg-logo="https://webtv.jpantv.live/channel/052.png" group-title="JNET",時代劇専門チャンネル
+https://live.livingjtv.live/jp52/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp53" tvg-logo="https://webtv.jpantv.live/channel/053.png" group-title="JNET",ファミリー劇場
+https://live.livingjtv.live/jp53/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp54" tvg-logo="https://webtv.jpantv.live/channel/054.png" group-title="JNET",ホームドラマチャンネル
+https://live.livingjtv.live/jp54/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp55" tvg-logo="https://webtv.jpantv.live/channel/055.png" group-title="JNET",MONDO TV
+https://live.livingjtv.live/jp55/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp56" tvg-logo="https://webtv.jpantv.live/channel/056.png" group-title="JNET",スーパー！ドラマＴＶ
+https://live.livingjtv.live/jp56/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp57" tvg-logo="https://webtv.jpantv.live/channel/057.png" group-title="JNET",Dlife
+https://live.livingjtv.live/jp57/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp58" tvg-logo="https://webtv.jpantv.live/channel/058.png" group-title="JNET",女性チャンネル♪LaLa TV
+https://live.livingjtv.live/jp58/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp59" tvg-logo="https://webtv.jpantv.live/channel/059.png" group-title="JNET",アクションチャンネル
+https://live.livingjtv.live/jp59/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp60" tvg-logo="https://webtv.jpantv.live/channel/060.png" group-title="JNET",ミステリーチャンネル
+https://live.livingjtv.live/jp60/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp61" tvg-logo="https://webtv.jpantv.live/channel/061.png" group-title="JNET",スカイ・A
+https://live.livingjtv.live/jp61/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp62" tvg-logo="https://webtv.jpantv.live/channel/062.png" group-title="JNET",GAORA SPORTS
+https://live.livingjtv.live/jp62/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp63" tvg-logo="https://webtv.jpantv.live/channel/063.png" group-title="JNET",日テレジータス
+https://live.livingjtv.live/jp63/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp64" tvg-logo="https://webtv.jpantv.live/channel/064.png" group-title="JNET",ゴルフネットワーク
+https://live.livingjtv.live/jp64/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp65" tvg-logo="https://webtv.jpantv.live/channel/065.png" group-title="JNET",FIGHTING TV サムライ
+https://live.livingjtv.live/jp65/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp66" tvg-logo="https://webtv.jpantv.live/channel/066.png" group-title="JNET",スポーツライブ＋
+https://live.livingjtv.live/jp66/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp67" tvg-logo="https://webtv.jpantv.live/channel/067.png" group-title="JNET",ＴＢＳチャンネル１
+https://live.livingjtv.live/jp67/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp68" tvg-logo="https://webtv.jpantv.live/channel/068.png" group-title="JNET",ＴＢＳチャンネル２
+https://live.livingjtv.live/jp68/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp69" tvg-logo="https://webtv.jpantv.live/channel/069.png" group-title="JNET",テレ朝チャンネル１
+https://live.livingjtv.live/jp69/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp70" tvg-logo="https://webtv.jpantv.live/channel/070.png" group-title="JNET",テレ朝チャンネル２
+https://live.livingjtv.live/jp70/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp71" tvg-logo="https://webtv.jpantv.live/channel/071.png" group-title="JNET",日テレプラス
+https://live.livingjtv.live/jp71/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp72" tvg-logo="https://webtv.jpantv.live/channel/072.png" group-title="JNET",チャンネル銀河
+https://live.livingjtv.live/jp72/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp73" tvg-logo="https://webtv.jpantv.live/channel/073.png" group-title="JNET",フジテレビＯＮＥ
+https://live.livingjtv.live/jp73/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp74" tvg-logo="https://webtv.jpantv.live/channel/074.png" group-title="JNET",フジテレビＴＷＯ
+https://live.livingjtv.live/jp74/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp75" tvg-logo="https://webtv.jpantv.live/channel/075.png" group-title="JNET",フジテレビＮＥＸＴ
+https://live.livingjtv.live/jp75/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp76" tvg-logo="https://webtv.jpantv.live/channel/076.png" group-title="JNET",スペースシャワーTV
+https://live.livingjtv.live/jp76/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp77" tvg-logo="https://webtv.jpantv.live/channel/077.png" group-title="JNET",MTV
+https://live.livingjtv.live/jp77/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp78" tvg-logo="https://webtv.jpantv.live/channel/078.png" group-title="JNET",MUSIC ON! TV（エムオン!）
+https://live.livingjtv.live/jp78/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp79" tvg-logo="https://webtv.jpantv.live/channel/079.png" group-title="JNET",ミュージック・エア
+https://live.livingjtv.live/jp79/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp80" tvg-logo="https://webtv.jpantv.live/channel/080.png" group-title="JNET",ミュージック・ジャパンTV
+https://live.livingjtv.live/jp80/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp81" tvg-logo="https://webtv.jpantv.live/channel/081.png" group-title="JNET",歌謡ポップスチャンネル
+https://live.livingjtv.live/jp81/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp82" tvg-logo="https://webtv.jpantv.live/channel/082.png" group-title="JNET",キッズステーション
+https://live.livingjtv.live/jp82/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp83" tvg-logo="https://webtv.jpantv.live/channel/083.png" group-title="JNET",アニメシアターX（AT-X)
+https://live.livingjtv.live/jp83/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp84" tvg-logo="https://webtv.jpantv.live/channel/084.png" group-title="JNET",ディズニージュニア
+https://live.livingjtv.live/jp84/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp85" tvg-logo="https://webtv.jpantv.live/channel/085.png" group-title="JNET",ダンスチャンネル by エンタメ?テレ
+https://live.livingjtv.live/jp85/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp86" tvg-logo="https://webtv.jpantv.live/channel/086.png" group-title="JNET",エンタメ?テレ☆シネドラバラエティ
+https://live.livingjtv.live/jp86/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp87" tvg-logo="https://webtv.jpantv.live/channel/087.png" group-title="JNET",海外アニメ！カートゥーン ネットワーク
+https://live.livingjtv.live/jp87/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp88" tvg-logo="https://webtv.jpantv.live/channel/088.png" group-title="JNET",ヒストリーチャンネル 日本・世界の歴史＆エンタメ
+https://live.livingjtv.live/jp88/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp89" tvg-logo="https://webtv.jpantv.live/channel/089.png" group-title="JNET",ナショナル ジオグラフィック
+https://live.livingjtv.live/jp89/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp90" tvg-logo="https://webtv.jpantv.live/channel/090.png" group-title="JNET",ディスカバリーチャンネル
+https://live.livingjtv.live/jp90/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp91" tvg-logo="https://webtv.jpantv.live/channel/091.png" group-title="JNET",アニマルプラネット
+https://live.livingjtv.live/jp91/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp92" tvg-logo="https://webtv.jpantv.live/channel/092.png" group-title="JNET",旅チャンネルＨＤ
+https://live.livingjtv.live/jp92/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp93" tvg-logo="https://webtv.jpantv.live/channel/093.png" group-title="JNET",鉄道チャンネル
+https://live.livingjtv.live/jp93/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp94" tvg-logo="https://webtv.jpantv.live/channel/094.png" group-title="JNET",TAKARAZUKA SKY STAGE
+https://live.livingjtv.live/jp94/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp95" tvg-logo="https://webtv.jpantv.live/channel/095.png" group-title="JNET",日テレNEWS24
+https://live.livingjtv.live/jp95/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp96" tvg-logo="https://webtv.jpantv.live/channel/096.png" group-title="JNET",ＴＢＳニュースバード
+https://live.livingjtv.live/jp96/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp97" tvg-logo="https://webtv.jpantv.live/channel/097.png" group-title="JNET",アイドル専門チャンネルＰｉｇｏｏ
+https://live.livingjtv.live/jp97/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp98" tvg-logo="https://webtv.jpantv.live/channel/098.png" group-title="JNET",囲碁・将棋チャンネル
+https://live.livingjtv.live/jp98/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp99" tvg-logo="https://webtv.jpantv.live/channel/099.png" group-title="JNET",スカチャン1
+https://live.livingjtv.live/jp99/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp80" tvg-logo="https://webtv.jpantv.live/channel/080.png" group-title="JNET",ミュージック・ジャパンTV
+https://live.livingjtv.live/jp80/playlist.m3u8?token=K2m6JkXJD0
+#EXTINF:-1 tvg-id="jp106" tvg-logo="https://imgcdn.cloudrsst.com:944/channels/images/6680867a72ca7e57c2b64656c8e1e7c7.png" group-title="JNET",MNET
+https://krtv.douga.live/ch66/playlist.m3u8?token=K2m6JkXJD0
