@@ -35,7 +35,7 @@ You can load this playlist directly into most modern media players and IPTV clie
 2. Go to **Media** > **Open Network Stream...** (or press `Ctrl + N`).
 3. Paste the raw URL of the playlist:
    ```text
-   https://raw.githubusercontent.com/obbiiall1/japan-iptv-playlist/refs/heads/main/jp.m3u8
+   https://raw.githubusercontent.com/obbiiall1/japan-iptv-playlist/refs/heads/main/jp.m3u
    ```
 ### ⚠️ Disclaimer
 * All streams in this repository are gathered from publicly available sources on the internet.
