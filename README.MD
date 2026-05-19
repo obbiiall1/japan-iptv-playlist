@@ -2,7 +2,7 @@
 
 ![Format](https://img.shields.io/badge/Format-M3U8-blue.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge)
-![Channels](https://img.shields.io/badge/Channels-50%2B-orange.svg?style=for-the-badge)
+![Channels](https://img.shields.io/badge/Channels-101%2B-orange.svg?style=for-the-badge)
 
 > A curated, high-quality M3U/M3U8 playlist of live Japanese television channels. Includes news, anime, sports, and entertainment streams directly from Japan.
 
@@ -35,4 +35,9 @@ You can load this playlist directly into most modern media players and IPTV clie
 2. Go to **Media** > **Open Network Stream...** (or press `Ctrl + N`).
 3. Paste the raw URL of the playlist:
    ```text
-   http://localhost/path/to/your/playlist.m3u
+   https://raw.githubusercontent.com/obbiiall1/japan-iptv-playlist/refs/heads/main/jp.m3u8
+   ```
+### ⚠️ Disclaimer
+* All streams in this repository are gathered from publicly available sources on the internet.
+* This repository does not host, broadcast, or re-transmit any media files.
+* Stream availability and uptime depend entirely on the original broadcasters.
